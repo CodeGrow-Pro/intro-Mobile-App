@@ -1,9 +1,9 @@
 // import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_application_ecom/tiles.dart';
+//import 'package:flutter_application_ecom/tiles.dart';
 void main() {
   runApp(const MyApp());
-  runApp(Tiles());
+ // runApp(Tiles());
 }
 
 class MyApp extends StatelessWidget {
